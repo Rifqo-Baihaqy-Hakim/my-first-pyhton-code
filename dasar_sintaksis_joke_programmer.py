@@ -1,7 +1,7 @@
 """
 Semua Sintaksis bahasa pemograman terdiri dari :
 1. Sekuensial: langkah berurutan
-2. Percabangan: Langkah melompat jika kondisi terpenuhi
+2. Percabangan: akah melompat jika kondisi terpenuhi
 3. Perulangan: Mengulang langkah yang sama berkali-kali selama/sampai kondisi terpenuhi
 """
 # Sekuensial
