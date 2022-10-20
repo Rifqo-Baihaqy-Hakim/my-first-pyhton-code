@@ -11,7 +11,7 @@ print('Ibu menjawab "Beli satu botol susu, dan jika ada telor beli 6"')
 print("Maka Budi berangkat ke toko ")
 print("Dan mulai belanja")
 
-# Percabangan
+# Percabangan   ,,
 jumlah_botol_susu = 179
 jumlah_telur = 1587
 print(f"Jumlah botol susu {jumlah_botol_susu} botol ")
